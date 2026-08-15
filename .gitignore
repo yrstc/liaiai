@@ -1,0 +1,8 @@
+.env
+.venv/
+.logicc-browser-profile/
+__pycache__/
+.pytest_cache/
+*.pyc
+proxy.log
+proxy-error.log
